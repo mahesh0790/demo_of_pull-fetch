@@ -1,1 +1,1 @@
-this is the line for local repository
+this is the line for remote repository
